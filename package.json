@@ -1,0 +1,15 @@
+{
+  "name": "nodemysqlproject",
+  "version": "1.0.0",
+  "description": "app using node and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "dilip shukla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
